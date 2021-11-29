@@ -1,2 +1,2 @@
-# openGeiger
+# OpenGeiger
 open source geiger counter
